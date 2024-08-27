@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">[My portfolio](https://potifolio-4n19o5drv-juses-projects.vercel.app)</p>
+<p align="center">![My portfolio](https://potifolio-4n19o5drv-juses-projects.vercel.app)</p>
 
 ###
 
