@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center"> <a href="https://potifolio-4n19o5drv-juses-projects.vercel.app" target="_blank"> My portfolio </a> </p>
+<p align="left"> <a href="https://potifolio-4n19o5drv-juses-projects.vercel.app" target="_blank"> My portfolio </a> </p>
 
 ###
 
