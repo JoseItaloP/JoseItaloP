@@ -44,11 +44,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&theme=radical" alt="Layout with last medium posts"  />
-</div>
-
-###
+<h2 align="left">Recently played in Spotify</h2>
 
 <div align="center">
   <a href="https://open.spotify.com/user/r9ne3ypiy5whavceuvthxqvcq">
