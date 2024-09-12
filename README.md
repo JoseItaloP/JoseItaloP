@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- React Developer<br> - Open to work<br> - At least 1 project per month</p>
+<p align="left">- React Developer<br> - Open to work<br></p>
 
 ###
 
