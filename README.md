@@ -6,10 +6,6 @@
 
 ###
 
-<p align="left"> <a href="https://potifolio-4n19o5drv-juses-projects.vercel.app" target="_blank"> My portfolio </a> </p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
