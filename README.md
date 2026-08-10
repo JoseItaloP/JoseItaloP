@@ -39,15 +39,3 @@
 </div>
 
 ###
-
-<h2 align="left">Recently played in Spotify</h2>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/r9ne3ypiy5whavceuvthxqvcq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=r9ne3ypiy5whavceuvthxqvcq&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-
